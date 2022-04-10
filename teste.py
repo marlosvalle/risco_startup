@@ -1,2 +1,1 @@
-print ("Qual é o seu nome: " )
-nome = input()
+import streamlit as st
