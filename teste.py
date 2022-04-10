@@ -1,2 +1,2 @@
-print ("Qual é o seu nome": )
+print ("Qual é o seu nome: " )
 nome = input()
